@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(94, 94, 245);
+}
+
+h1{
+    font-size: xx-large;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+}
+
+#msg{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+#foto{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 25px;
+}
+
+section{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.349);
+}
+
+footer{
+    color: black;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    background-color: white;
+    margin: auto;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.349);
+}
+
+div{
+    padding: 10px;
+    
+}
